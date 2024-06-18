@@ -52,3 +52,20 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+DOCUMENTATION
+I downloaded and installed visual studio code from the official website. I had some issues with the installation but so a classmate assisted me in installing another one. My classmate had the operating system in a hard drive which was used in putting it in my laptop.
+
+I downloaded an IDE: Visual studio Code from https://code.visualstudio.com/Download , their official website and did not experience any issues.
+
+I installed git and configured it on my machine. I also created a github account in the process. Everything went smoothly and no challenges were faced.
+
+I was able to install python. It was challenging because I experienced some minor challenges. I was not able to see python in my path at the environment variables. I also couldn't find it on git. So I manually added python to my environment variables path and was able to locate it on my windows powershell but not on git. I wondered why. This documentations will show you how simple mistakes give one so much stress and patience is key. so the solution to being able to find python on git was just to restart my git bash and there it was! Python installation successful. I ensured it was functional by running pip --version in my command line after Python installation.
+
+Downloaded and installed MySQL database from dev.mysql.com and fortunately it was successful.
+
+I  explored and installed extensions within Visual Studio Code to enhance functionality for my specific needs such as python.
+
+During all these processes, I ensured my environment was secure by configuring firewalls, updating software regularly, and using strong passwords. I also installed additional tool and libraries such as nodejs.
+
+My projects and repositories can be accessed on my github account at https://github.com/yrrxt
